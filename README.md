@@ -108,7 +108,7 @@ See below for the raw output of the benchmark. First I will give a summary. If t
 
 ### System Specs
 
-OS: Debian-based Linux
+OS: Debian-based Linux  
 Cpu: Intel Xeon W-2135
 
 ### Explanation of Data
